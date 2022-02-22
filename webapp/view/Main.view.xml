@@ -1,0 +1,10 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="app.XMLTemplate.controller.Main"
+	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+	<Page title="Main">
+		<content>
+			<Button text="XML Template1" app:type="XMLTemplate1" press="onNavigate"/>
+			<Button text="XML Template2" app:type="XMLTemplate2" press="onNavigate"/>
+			<Button text="XML Template3" app:type="XMLTemplate3" press="onNavigate"/>
+		</content>
+	</Page>
+</mvc:View>

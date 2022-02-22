@@ -1,0 +1,11 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="app.XMLTemplate.controller.XMLTemplate3"
+	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:template="http://schemas.sap.com/sapui5/extension/sap.ui.core.template/1">
+	<Page title="Template3">
+		<content>
+			<Button text="Ok" press="onPress"/>
+			<!--<template:repeat list="{ path:'meta>/Suppliers' }" var="supplier">-->
+			<!--	<Text text="{supplier>name}"/>-->
+			<!--</template:repeat>-->
+		</content>
+	</Page>
+</mvc:View>

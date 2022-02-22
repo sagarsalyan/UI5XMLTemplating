@@ -1,0 +1,6 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="app.XMLTemplate.controller.Detail"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page id="detailPage" title="Detail" showHeader="true">
+		<content></content>
+	</Page>
+</mvc:View>

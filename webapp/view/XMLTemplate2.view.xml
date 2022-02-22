@@ -1,0 +1,13 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="app.XMLTemplate.controller.XMLTemplate2"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Template2">
+		<headerContent>
+			<OverflowToolbar>
+				<Button text="Ok"/>
+			</OverflowToolbar>
+		</headerContent>
+		<content>
+			<Button text="Ok"/>
+		</content>
+	</Page>
+</mvc:View>
